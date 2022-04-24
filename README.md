@@ -5,7 +5,6 @@ title: VoIP Setup with Kamailio IMS
 Setup description:
 - MCC: 001, MNC: 01
 - Ubuntu VM with Kamailio IMS(Internal IP 10.4.128.21 and Floating IP 172.24.15.30)
-{: .blue}
 
 
 #### 1. Install following packages
